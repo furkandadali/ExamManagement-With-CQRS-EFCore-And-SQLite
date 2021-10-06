@@ -1,0 +1,15 @@
+C:\Users\alifd\source\repos\ExamManagement\Shared\bin\Debug\net5.0\Shared.deps.json
+C:\Users\alifd\source\repos\ExamManagement\Shared\bin\Debug\net5.0\Shared.runtimeconfig.json
+C:\Users\alifd\source\repos\ExamManagement\Shared\bin\Debug\net5.0\Shared.runtimeconfig.dev.json
+C:\Users\alifd\source\repos\ExamManagement\Shared\bin\Debug\net5.0\Shared.dll
+C:\Users\alifd\source\repos\ExamManagement\Shared\bin\Debug\net5.0\ref\Shared.dll
+C:\Users\alifd\source\repos\ExamManagement\Shared\bin\Debug\net5.0\Shared.pdb
+C:\Users\alifd\source\repos\ExamManagement\Shared\obj\Debug\net5.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alifd\source\repos\ExamManagement\Shared\obj\Debug\net5.0\Shared.AssemblyInfoInputs.cache
+C:\Users\alifd\source\repos\ExamManagement\Shared\obj\Debug\net5.0\Shared.AssemblyInfo.cs
+C:\Users\alifd\source\repos\ExamManagement\Shared\obj\Debug\net5.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\alifd\source\repos\ExamManagement\Shared\obj\Debug\net5.0\Shared.dll
+C:\Users\alifd\source\repos\ExamManagement\Shared\obj\Debug\net5.0\ref\Shared.dll
+C:\Users\alifd\source\repos\ExamManagement\Shared\obj\Debug\net5.0\Shared.pdb
+C:\Users\alifd\source\repos\ExamManagement\Shared\obj\Debug\net5.0\Shared.genruntimeconfig.cache
+C:\Users\alifd\source\repos\ExamManagement\Shared\obj\Debug\net5.0\Shared.csproj.AssemblyReference.cache
